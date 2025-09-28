@@ -77,7 +77,7 @@ def main():
     
     param_ranges = {
         # Example parameters - modify these for your research
-        'error_num': [1],          # Test different error numbers
+        'error_num': [0],          # Test different error numbers
         'attack_layer': [1],          # Test different attack layers
         'bit_num': [1],                  # Test different bit numbers
         'num_of_runs': [3],                  # Single run for testing
